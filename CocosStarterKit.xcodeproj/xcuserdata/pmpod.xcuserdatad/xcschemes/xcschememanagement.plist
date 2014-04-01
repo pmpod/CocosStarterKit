@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CocosStarterKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>ObjectiveChipmunk.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>cocos2d_v3.0-library.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>850DBF3C18EB412B008E155E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>850DBF5318EB412C008E155E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>850DC1FC18EB4236008E155E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>850DC20918EB4237008E155E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
